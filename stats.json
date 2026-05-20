@@ -1,0 +1,12 @@
+{
+    "total_detections": 5,
+    "class_distribution": {
+        "Melanoma": 0,
+        "Melanocytic Nevus": 3,
+        "Basal Cell Carcinoma": 0,
+        "Actinic Keratosis": 1,
+        "Benign Keratosis": 1,
+        "Dermatofibroma": 0,
+        "Vascular Lesion": 0
+    }
+}
